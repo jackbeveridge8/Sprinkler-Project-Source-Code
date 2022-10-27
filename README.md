@@ -5,5 +5,6 @@ The libraries needed for the Code is the ESP32 board library, Blynk Library, and
 
 
 Authors:
+
 Jack Beveridge
 Ethan Jones
